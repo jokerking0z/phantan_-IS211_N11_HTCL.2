@@ -1,4 +1,4 @@
-# phantan_-IS211_N11_HTCL.2
+# phantan_IS211_N11_HTCL.2
 # <h1 align="center">CSDL PT_IS211.N11.HTCL_Team2<h1>
 
 <!-- PROJECT LOGO -->

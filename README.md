@@ -56,10 +56,10 @@
  
 | STT| Họ tên         | MSSV                 | FB                                                   |   SĐT     |     Nhiệm vụ    |   Đánh giá % |
 |:--:|----------------|------------------------|----------------------------------------------------|-----------|-----------------|--------------|
-| 1  | Nguyễn Thành Đạt     | 19521340 |         | ||         |
-| 2  | Trần Thanh Trung    | 19521065 |      | |  |         | 
-| 3  | Trần Thạnh Phong    | 20521750 | | |   |          |
-| 4  | Nguyễn Trung Nguyên | 20521678 | | ||       |
+| 1  | Nguyễn Thành Đạt     | 19521340 |         | |Tìm hiểu nội dung, chuẩn bị file báo cáo, chỉnh sửa video demo|     90%    |
+| 2  | Trần Thanh Trung    | 19521065 |      | | Tìm hiểu nội dung, cài đặt và làm demo chính. |   95%      | 
+| 3  | Trần Thạnh Phong    | 20521750 | | | Chuẩn bị nội dung báo cáo, làm file thuyết trình, hỗ trợ cài đặt, làm demo.  |    90%      |
+| 4  | Nguyễn Trung Nguyên | 20521678 | | |Tìm tài liệu tham khảo, hỗ trợ cài đặt và làm demo.|   90%    |
 
 
 

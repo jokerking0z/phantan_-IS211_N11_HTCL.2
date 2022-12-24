@@ -1,0 +1,255 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Leland",
+            "lastName": "Kuhic",
+            "email": "user1@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 2,
+            "firstName": "Howard",
+            "lastName": "Emmerich",
+            "email": "user2@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 3,
+            "firstName": "Magali",
+            "lastName": "Pacocha",
+            "email": "user3@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 4,
+            "firstName": "Cheyanne",
+            "lastName": "Effertz",
+            "email": "user4@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 5,
+            "firstName": "Marisa",
+            "lastName": "Abernathy",
+            "email": "user5@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 6,
+            "firstName": "Ruben",
+            "lastName": "Price",
+            "email": "user6@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 7,
+            "firstName": "Jacynthe",
+            "lastName": "Kemmer",
+            "email": "user7@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 8,
+            "firstName": "Marianne",
+            "lastName": "Green",
+            "email": "user8@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 9,
+            "firstName": "Edythe",
+            "lastName": "Luettgen",
+            "email": "user9@email.com",
+            "password": "123456"
+        },
+        {
+            "id": 10,
+            "firstName": "Jared",
+            "lastName": "Braun",
+            "email": "user10@email.com",
+            "password": "123456"
+        },
+        {
+            "firstName": "dh",
+            "lastName": "bh",
+            "email": "v2@gmail.com",
+            "password": "6789u96",
+            "lessons": [],
+            "id": 11
+        },
+        {
+            "firstName": "Tran",
+            "lastName": "Trung",
+            "email": "n@gmail.com",
+            "password": "12346667",
+            "lessons": [],
+            "id": 12
+        },
+        {
+            "firstName": "jhj",
+            "lastName": "jbj",
+            "email": "nh@gmail.com",
+            "password": "567y889",
+            "lessons": [],
+            "id": 13
+        },
+        {
+            "email": "user2@email.com",
+            "password": "123456",
+            "id": 14
+        },
+        {
+            "email": "user2@email.com",
+            "password": "123456",
+            "id": 15
+        },
+        {
+            "email": "user2@email.com",
+            "password": "123456",
+            "id": 16
+        },
+        {
+            "email": "user2@email.com",
+            "password": "123456",
+            "id": 17
+        },
+        {
+            "email": "user2@email.com",
+            "password": "123456",
+            "id": 18
+        },
+        {
+            "firstName": "bj",
+            "lastName": "bhnj",
+            "email": "bh@gmail.com",
+            "password": "1234567",
+            "lessons": [],
+            "id": 19
+        },
+        {
+            "firstName": "hjn",
+            "lastName": "vhbjn",
+            "email": "n@gmail.com",
+            "password": "123567",
+            "lessons": [],
+            "id": 20
+        },
+        {
+            "email": "user1@email.com",
+            "password": "123456",
+            "id": 21
+        },
+        {
+            "email": "user1@email.com",
+            "password": "123456",
+            "id": 22
+        },
+        {
+            "email": "user1@email.com",
+            "password": "123456",
+            "id": 23
+        },
+        {
+            "email": "user1@email.com",
+            "password": "123456",
+            "id": 24
+        },
+        {
+            "firstName": "Trung",
+            "lastName": "Trung",
+            "email": "Trung@gmail.com",
+            "password": "123456789",
+            "lessons": [],
+            "id": 25
+        },
+        {
+            "firstName": "Trung",
+            "lastName": "Trung",
+            "email": "y@gmail.com",
+            "password": "123456789",
+            "lessons": [],
+            "id": 26
+        },
+        {
+            "firstName": "u",
+            "lastName": "u",
+            "email": "u@gmail.com",
+            "password": "123456",
+            "lessons": [],
+            "id": 27
+        },
+        {
+            "firstName": "hb",
+            "lastName": "yg",
+            "email": "u@gmail.com",
+            "password": "123456789",
+            "lessons": [],
+            "id": 28
+        },
+        {
+            "firstName": "b",
+            "lastName": "bhjn",
+            "email": "h@gmail.com",
+            "password": "1234678",
+            "lessons": [],
+            "id": 29
+        },
+        {
+            "email": "n@gmail.com",
+            "password": "1234567",
+            "id": 30
+        },
+        {
+            "firstName": "bhh",
+            "lastName": "j",
+            "email": "j@gmail.com",
+            "password": "123456789",
+            "lessons": [],
+            "id": 31
+        },
+        {
+            "firstName": "nn",
+            "lastName": "hb",
+            "email": "n@gmail.com",
+            "password": "12345678",
+            "lessons": [],
+            "id": 32
+        },
+        {
+            "firstName": "hb",
+            "lastName": "l",
+            "email": "n@gmail.com",
+            "password": "12345",
+            "lessons": [],
+            "id": 33
+        },
+        {
+            "firstName": "n",
+            "lastName": "m",
+            "email": "m@gmail.com",
+            "password": "12345",
+            "lessons": [],
+            "id": 34
+        },
+        {
+            "firstName": "nn",
+            "lastName": "m",
+            "email": "b@gmail.com",
+            "password": "1234",
+            "lessons": [],
+            "id": 35
+        },
+        {
+            "firstName": "n",
+            "lastName": "m",
+            "email": "m@gmail.com",
+            "password": "12345",
+            "lessons": [],
+            "id": 36
+        }
+    ],
+    "@metadata": {
+        "@collection": "Student"
+    }
+}

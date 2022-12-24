@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 51,
+      "firstName": "Leland",
+      "lastName": "Kuhic",
+      "email": "user1@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 52,
+      "firstName": "Howard",
+      "lastName": "Emmerich",
+      "email": "user2@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 53,
+      "firstName": "Magali",
+      "lastName": "Pacocha",
+      "email": "user3@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 54,
+      "firstName": "Cheyanne",
+      "lastName": "Effertz",
+      "email": "user4@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 55,
+      "firstName": "Marisa",
+      "lastName": "Abernathy",
+      "email": "user5@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 56,
+      "firstName": "Ruben",
+      "lastName": "Price",
+      "email": "user6@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 57,
+      "firstName": "Jacynthe",
+      "lastName": "Kemmer",
+      "email": "user7@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 58,
+      "firstName": "Marianne",
+      "lastName": "Green",
+      "email": "user8@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 59,
+      "firstName": "Edythe",
+      "lastName": "Luettgen",
+      "email": "user9@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 60,
+      "firstName": "Jared",
+      "lastName": "Braun",
+      "email": "user10@email.com",
+      "password": "123456"
+    },
+    {
+      "firstName": "dh",
+      "lastName": "bh",
+      "email": "v2@gmail.com",
+      "password": "6789u96",
+      "lessons": [],
+      "id": 61
+    }
+  ],
+	"@metadata": {
+        "@collection": "Student"
+    }
+}
